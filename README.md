@@ -1,5 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nova+Mono&weight=800&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub" alt="Typing SVG" /></a>
 
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/a48f6999-50c1-42d4-a48c-55236f83b3c6/FcdfxoZI0E.json" background="##FFFFFF" speed="1" style="width: 300px; height: 300px" loop controls autoplay direction="1" mode="normal"></lottie-player>
+
 <!--
 **vkolev86/vkolev86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
