@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nova+Mono&weight=800&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub" alt="Typing SVG" /></a>
 
-![Animation - 1699889265439](https://github.com/vkolev86/vkolev86/assets/114021087/b61c98cc-c76f-4e61-8491-e40c9e1ff95f)
+<center>![Animation - 1699889381292](https://github.com/vkolev86/vkolev86/assets/114021087/07f04b6c-e75d-46c0-af4b-24e274834de6)</center>
 
 
 <!--
