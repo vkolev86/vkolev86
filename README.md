@@ -2,12 +2,6 @@
 
 ![Animation - 1699889381292](https://github.com/vkolev86/vkolev86/assets/114021087/07f04b6c-e75d-46c0-af4b-24e274834de6)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-  
 <!--
 **vkolev86/vkolev86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
