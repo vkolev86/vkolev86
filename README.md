@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nova+Mono&weight=800&pause=1000&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub" alt="Typing SVG" /></a>
-
+###
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 <img width="12" />
@@ -11,13 +11,13 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
-
+###
 <img align="left" alt="coding" width="280" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
+###
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
-
+###
 <!--
 **vkolev86/vkolev86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
