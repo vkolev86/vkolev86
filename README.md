@@ -12,13 +12,16 @@
 <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
 
+<br>
+
 <img align="left" alt="coding" width="280" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <br>
+
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
-###
+
 <!--
 **vkolev86/vkolev86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
