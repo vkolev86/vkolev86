@@ -2,17 +2,17 @@
 ###
 <div align="center">
 <img width="12" />
-<img alt="coding" width="140" height="120" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img alt="coding" width="130" height="110" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <img width="12" />
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="120" alt="javascript"  />
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="110" alt="javascript"  />
 <img width="12" />
- <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="120" alt="react"  />
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="110" alt="react"  />
 <img width="12" />
-<img src="https://icons-for-free.com/iconfiles/png/512/js+library+long+shadow+nodejs+web+icon-1320184850167478047.png" height="120" alt="pycharm logo"  />
+<img src="https://icons-for-free.com/iconfiles/png/512/js+library+long+shadow+nodejs+web+icon-1320184850167478047.png" height="110" alt="pycharm logo"  />
 <img width="12" />
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" height="120" alt="pycharm logo"  />
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" height="110" alt="pycharm logo"  />
 <img width="12" />
-<img src="https://icons-for-free.com/iconfiles/png/512/github+icon-1320168274457504277.png" height="120" alt="github logo"  />
+<img src="https://icons-for-free.com/iconfiles/png/512/github+icon-1320168274457504277.png" height="110" alt="github logo"  />
 </div>
 
 
