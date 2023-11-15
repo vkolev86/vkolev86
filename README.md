@@ -5,17 +5,19 @@
 ###
 <div align="center">
 <img width="12" />
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="110" alt="javascript"  />
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="100" alt="javascript"  />
 <img width="12" />
- <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="110" alt="react"  />
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="100" alt="react"  />
 <img width="12" />
-<img src="https://icons-for-free.com/iconfiles/png/512/js+library+long+shadow+nodejs+web+icon-1320184850167478047.png" height="110" alt="pycharm logo"  />
+<img src="https://icons-for-free.com/iconfiles/png/512/js+library+long+shadow+nodejs+web+icon-1320184850167478047.png" height="100" alt="pycharm logo"  />
 <img width="12" />
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" height="110" alt="pycharm logo"  />
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" height="100" alt="pycharm logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=github" height="110" alt="github logo"  />
+<img src="https://skillicons.dev/icons?i=github" height="100" alt="github logo"  />
 <img width="12" />
-<img src="https://icons-for-free.com/iconfiles/png/512/icon++html+icon-1320194800994962643.png" alt="coding" height="110">
+<img src="https://icons-for-free.com/iconfiles/png/512/icon++html+icon-1320194800994962643.png" alt="html" height="100">
+ <img width="12" />
+<img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" alt="html" height="100">
 </div>
 
 
