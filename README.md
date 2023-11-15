@@ -1,4 +1,6 @@
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Most+good+programmers+do+programming;not+because+they+expect+to+get+paid;or+get+adulation+by+the+public%2C;but+because+it+is+fun+to+program." alt="Typing SVG" /></a>
+</div>
 
 ###
 <div align="center">
