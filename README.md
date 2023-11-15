@@ -1,6 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nova+Mono&weight=800&pause=1000&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub" alt="Typing SVG" /></a>
 ###
 <div align="center">
+<img width="12" />
+<img align="center" alt="coding" width="120" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="120" alt="javascript"  />
 <img width="12" />
  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="120" alt="react"  />
