@@ -9,7 +9,7 @@
 <img width="12" />
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" height="120" alt="pycharm logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+<img src="https://icons-for-free.com/iconfiles/png/512/github+icon-1320168274457504277.png" height="120" alt="github logo"  />
 </div>
 
 <br>
