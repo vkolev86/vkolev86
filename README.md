@@ -5,8 +5,6 @@
 ###
 <div align="center">
 <img width="12" />
-<img alt="coding" width="130" height="110" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<img width="12" />
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="110" alt="javascript"  />
 <img width="12" />
  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="110" alt="react"  />
@@ -16,6 +14,8 @@
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" height="110" alt="pycharm logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=github" height="110" alt="github logo"  />
+<img width="12" />
+<img src="https://icons-for-free.com/iconfiles/png/512/icon++html+icon-1320194800994962643.png" alt="coding" height="110">
 </div>
 
 
