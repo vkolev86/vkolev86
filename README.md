@@ -3,7 +3,7 @@
 <div align="center">
 <img width="12" />
 <img align="center" alt="coding" width="120" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
- <img width="12" />
+<img width="12" />
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="120" alt="javascript"  />
 <img width="12" />
  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="120" alt="react"  />
@@ -15,9 +15,6 @@
 <img src="https://icons-for-free.com/iconfiles/png/512/github+icon-1320168274457504277.png" height="120" alt="github logo"  />
 </div>
 
-<br>
-
-<img align="center" alt="coding" width="280" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <br>
 
