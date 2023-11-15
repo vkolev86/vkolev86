@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nova+Mono&weight=800&pause=1000&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Most+good+programmers+do+programming+not+because+they+expect+to+get+paid+or+get+adulation+by+the+public%2C+but+because+it+is+fun+to+program.+-+Rajanand" alt="Typing SVG" /></a>
 ###
 <div align="center">
 <img width="12" />
