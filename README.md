@@ -2,7 +2,7 @@
 ###
 <div align="center">
 <img width="12" />
-<img alt="coding" width="130" height="120" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img alt="coding" width="140" height="120" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <img width="12" />
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="120" alt="javascript"  />
 <img width="12" />
