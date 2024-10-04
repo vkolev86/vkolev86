@@ -9,7 +9,7 @@
 <img width="12" />
  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="100" alt="react"  />
 <img width="12" />
-<img src="https://p7.hiclipart.com/preview/306/37/167/node-js-javascript-web-application-express-js-computer-software-others.jpg" height="100" alt="pycharm logo"  />
+<img src="https://w7.pngwing.com/pngs/205/650/png-transparent-node-js-javascript-software-developer-express-js-computer-software-node-js-logo-nodejs-software-development-thumbnail.png" height="100" alt="pycharm logo"  />
 <img width="12" />
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" height="100" alt="pycharm logo"  />
 <img width="12" />
