@@ -9,7 +9,7 @@
 <img width="12" />
  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="100" alt="react"  />
 <img width="12" />
-<img src="https://icons-for-free.com/iconfiles/png/512/js+library+long+shadow+nodejs+web+icon-1320184850167478047.png" height="100" alt="pycharm logo"  />
+<img src="https://e7.pngegg.com/pngimages/247/558/png-clipart-node-js-javascript-express-js-npm-react-github-angle-text-thumbnail.png" height="100" alt="pycharm logo"  />
 <img width="12" />
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" height="100" alt="pycharm logo"  />
 <img width="12" />
