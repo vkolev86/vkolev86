@@ -15,7 +15,7 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=github" height="100" alt="github logo"  />
 <img width="12" />
-<img src="https://icons-for-free.com/iconfiles/png/512/icon++html+icon-1320194800994962643.png" alt="html" height="100">
+<img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-html-5-icon.png" alt="html" height="100">
  <img width="12" />
 <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" alt="html" height="100">
 </div>
