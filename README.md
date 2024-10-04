@@ -7,17 +7,17 @@
 <img width="12" />
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="100" alt="Javascript"  />
 <img width="12" />
- <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="100" alt="React"  />
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="100" alt="React"  />
 <img width="12" />
-<img src="https://w7.pngwing.com/pngs/493/735/png-transparent-node-js-javascript-express-js-mongodb-github-github-angle-text-logo-thumbnail.png" height="100" alt="NodeJS"  />
+<img src="https://blog.amt.in/wp-content/uploads/2017/12/e16da876-c2fd-4eb8-ae72-4b193c534938-Edited.png" height="100" alt="ExpressJS"  />
 <img width="12" />
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" height="100" alt="PostgreSQL"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=github" height="100" alt="Github"  />
-<img width="12" />
 <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-html-5-icon.png" alt="HTML" height="100">
- <img width="12" />
+<img width="12" />
 <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" alt="CSS" height="100">
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=github" height="100" alt="Github"  />
 </div>
 
 
