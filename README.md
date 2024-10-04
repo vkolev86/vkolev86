@@ -5,19 +5,19 @@
 ###
 <div align="center">
 <img width="12" />
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="100" alt="javascript"  />
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="100" alt="Javascript"  />
 <img width="12" />
- <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="100" alt="react"  />
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="100" alt="React"  />
 <img width="12" />
-<img src="https://w7.pngwing.com/pngs/205/650/png-transparent-node-js-javascript-software-developer-express-js-computer-software-node-js-logo-nodejs-software-development-thumbnail.png" height="100" alt="pycharm logo"  />
+<img src="https://w7.pngwing.com/pngs/493/735/png-transparent-node-js-javascript-express-js-mongodb-github-github-angle-text-logo-thumbnail.png" height="100" alt="NodeJS"  />
 <img width="12" />
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" height="100" alt="pycharm logo"  />
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" height="100" alt="PostgreSQL"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=github" height="100" alt="github logo"  />
+<img src="https://skillicons.dev/icons?i=github" height="100" alt="Github"  />
 <img width="12" />
-<img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-html-5-icon.png" alt="html" height="100">
+<img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-html-5-icon.png" alt="HTML" height="100">
  <img width="12" />
-<img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" alt="html" height="100">
+<img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" alt="CSS" height="100">
 </div>
 
 
